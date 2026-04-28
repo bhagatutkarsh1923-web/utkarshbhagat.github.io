@@ -1,0 +1,93 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[left=0.7in, right=0.7in, top=0.7in, bottom=0.7in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+%-------------------- HEADER --------------------
+\begin{center}
+    {\LARGE \textbf{Your Name}}\\
+    Domain (Finance / Marketing / HR)\\
+    Phone: +91-XXXXXXXXXX \quad | \quad Email: your@email.com\\
+    LinkedIn: linkedin.com/in/yourprofile \quad | \quad City, State
+\end{center}
+
+%-------------------- CAREER OBJECTIVE --------------------
+\section*{Career Objective}
+A motivated MBA student specializing in Finance seeking opportunities to apply analytical and financial skills in a growth-oriented organization.
+
+%-------------------- EDUCATION --------------------
+\section*{Education}
+
+\textbf{MBA in Finance} \hfill 2024 -- 2026\\
+University Name, Location\\
+CGPA: X.XX
+
+\vspace{5pt}
+
+\textbf{B.Com / BBA} \hfill 2021 -- 2024\\
+University Name\\
+Percentage: XX\%
+
+\vspace{5pt}
+
+\textbf{Senior Secondary (12th)} \hfill 2020\\
+School Name\\
+Percentage: XX\%
+
+%-------------------- SKILLS --------------------
+\section*{Skills}
+\begin{itemize}[noitemsep]
+    \item Financial Analysis
+    \item MS Excel (Advanced)
+    \item Data Analysis
+    \item Communication Skills
+    \item Python (Basic)
+\end{itemize}
+
+%-------------------- PROJECTS --------------------
+\section*{Projects}
+
+\textbf{Stock Market Analysis Project} \hfill Jan 2025\\
+\begin{itemize}[noitemsep]
+    \item Analyzed stock performance using Excel and financial ratios.
+    \item Improved investment decision-making insights.
+\end{itemize}
+
+\textbf{Company Financial Analysis (HDFC Bank)} \hfill Feb 2025\\
+\begin{itemize}[noitemsep]
+    \item Studied financial statements and key ratios.
+    \item Evaluated company performance and growth trends.
+\end{itemize}
+
+%-------------------- INTERNSHIPS --------------------
+\section*{Internships / Work Experience}
+
+\textbf{Company Name} \hfill Duration\\
+Role: Finance Intern
+\begin{itemize}[noitemsep]
+    \item Assisted in financial reporting and analysis.
+    \item Worked on budgeting and forecasting.
+\end{itemize}
+
+%-------------------- CERTIFICATIONS --------------------
+\section*{Certifications}
+
+\begin{itemize}[noitemsep]
+    \item Financial Modeling Course | Coursera | 2025
+    \item Excel for Business | Udemy | 2024
+\end{itemize}
+
+%-------------------- ACHIEVEMENTS --------------------
+\section*{Achievements}
+
+\begin{itemize}[noitemsep]
+    \item Secured top 10\% rank in MBA semester exams.
+    \item Participated in business case competition.
+\end{itemize}
+
+\end{document}
